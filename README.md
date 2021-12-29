@@ -118,7 +118,7 @@ python dense-nas.py --model DenseNAS-R3
 ```
 
 ### Citation
-```
+```bibtex
 @InProceedings{Devaguptapu_2021_ICCV,
     author    = {Devaguptapu, Chaitanya and Agarwal, Devansh and Mittal, Gaurav and Gopalani, Pulkit and Balasubramanian, Vineeth N},
     title     = {On Adversarial Robustness: A Neural Architecture Search Perspective},
