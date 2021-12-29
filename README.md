@@ -117,7 +117,17 @@ For running all the four attacks on `DenseNAS-R3` run the following command:
 python dense-nas.py --model DenseNAS-R3
 ```
 
-
+### Citation
+```
+@InProceedings{Devaguptapu_2021_ICCV,
+    author    = {Devaguptapu, Chaitanya and Agarwal, Devansh and Mittal, Gaurav and Gopalani, Pulkit and Balasubramanian, Vineeth N},
+    title     = {On Adversarial Robustness: A Neural Architecture Search Perspective},
+    booktitle = {Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV) Workshops},
+    month     = {October},
+    year      = {2021},
+    pages     = {152-161}
+}
+```
 ### Acknowledgements
 
 Some of the code and weights provided in this library are borrowed from the libraries mentioned below:
